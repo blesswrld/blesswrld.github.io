@@ -71,6 +71,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 25px;
+    animation: fadeIn 1.5s ease;
 }
 
 .footer a {
