@@ -3,7 +3,7 @@
 body {
     margin: 0;
     font-family: Roboto;
-    background: linear-gradient(135deg, #1f1f1f, #000000);
+    background: linear-gradient(135deg, #000000, #434343);
     color: white;
     display: flex;
     flex-direction: column;
